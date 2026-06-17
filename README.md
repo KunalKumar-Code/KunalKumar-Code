@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkumar-code&label=Profile%20views&color=0e75b6&style=flat" alt="kunalkumar-code" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalkumar-code" alt="kunalkumar-code" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=kunalkumar-code&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 🔭 I’m currently working on **Bullet Chemistry Classes Website**
