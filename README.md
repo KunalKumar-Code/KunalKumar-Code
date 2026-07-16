@@ -8,8 +8,8 @@ I am a proactive software developer with experience building web applications, b
 
 * 🌍  I'm based in New Delhi, India
 * ✉️  You can contact me at [kunalkumar.code@gmail.com](mailto:kunalkumar.code@gmail.com)
-* 🚀  I'm currently working on [Bullet Chemistry Classes Website](http://github.com)
-* 🧠  I'm currently learning Figma
+* 🚀  I'm currently working on [ResuSight](https://github.com/KunalKumar-Code/ResuSight)
+* 🧠  I'm currently learning Docker
 * 👥  I'm looking to collaborate on New Apps
 
 <p align="left">
